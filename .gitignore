@@ -1,4 +1,4 @@
-bazar/
-bazar_clean/
+menage/bazar/
+menage/bazar_clean/
 fixtures/
 init-script.sh
